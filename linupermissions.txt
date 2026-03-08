@@ -1,0 +1,4 @@
+chmod - for giving permissions
+chown - for changing owner 
+journalctl-- to check logs
+logs are in /var/logs location
